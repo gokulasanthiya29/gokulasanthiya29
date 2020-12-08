@@ -1,6 +1,6 @@
 ### Hola, folks! 👋
 
-![](https://img.shields.io/badge/<Code>-<Python>informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/<Code>-<Python>informational?style=flat&logo=data:image/svg%2bxml;base64,<Python>)
 
 <!--
 **gokulasanthiya29/gokulasanthiya29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
