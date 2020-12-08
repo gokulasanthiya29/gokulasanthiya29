@@ -1,6 +1,10 @@
-### Hola, folks! 👋 
+### Hola, folks! 👋 It's me, Gokula Santhiya, a Cloud Technology Hunker, honing my skills on a daily basis to grab an aligning job to feed my curiosity. 
+These are the tech-tools I'm working on:
 
 ![](https://img.shields.io/badge/Python-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
+![](https://img.shields.io/badge/AWS-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
+![](https://img.shields.io/badge/Terraform-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
+![](https://img.shields.io/badge/Ansible-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
 
 <!--
 **gokulasanthiya29/gokulasanthiya29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
