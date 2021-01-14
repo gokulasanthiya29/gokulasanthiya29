@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1]
 
 <!-- Icons -->
 
@@ -66,9 +66,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/SanthiyaGokula
-[2]: https://www.linkedin.com/in/gokula-santhiya-017392184
 
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
 
 
