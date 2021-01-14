@@ -23,6 +23,9 @@ Web Technologies:
 ![](https://img.shields.io/badge/HTML-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
 ![](https://img.shields.io/badge/CSS-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
 
+Framework:
+![](https://img.shields.io/badge/Flask-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
+
 <!--
 **gokulasanthiya29/gokulasanthiya29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
