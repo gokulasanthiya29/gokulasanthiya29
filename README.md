@@ -1,4 +1,7 @@
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<OS>-<Windows>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Tool>-<Sublime Text 3>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 ### Hola, folks! 👋 It's me, Gokula Santhiya, a Cloud Technology Hanker, honing my skills on a daily basis to grab an aligning job to feed my curiosity. 
