@@ -6,7 +6,6 @@ These are the platforms I'm familiar with:
 ![](https://img.shields.io/badge/Windows-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
 
 Programming Language:
-
 ![](https://img.shields.io/badge/Python-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
 
 Database:
@@ -20,6 +19,9 @@ DevOps & Automation:
 ![](https://img.shields.io/badge/Git-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
 ![](https://img.shields.io/badge/CircleCi-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
 
+Web Technologies:
+![](https://img.shields.io/badge/HTML-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
+![](https://img.shields.io/badge/CSS-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
 
 <!--
 **gokulasanthiya29/gokulasanthiya29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
