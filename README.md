@@ -1,5 +1,3 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokulasanthiya29)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ### Hola, folks! 👋 It's me, Gokula Santhiya, a Cloud Technology Hanker, honing my skills on a daily basis to grab an aligning job to feed my curiosity. 
@@ -46,3 +44,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokulasanthiya29)](https://github.com/anuraghazra/github-readme-stats)
