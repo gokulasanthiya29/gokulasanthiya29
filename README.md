@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulasanthiya29&layout=compact&theme=merko)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulasanthiya29&layout=compact&theme=Dark)]
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokulasanthiya29&show_icons=true&theme=merko)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokulasanthiya29&show_icons=true&theme=Tokyonight)
 
 
 
