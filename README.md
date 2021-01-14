@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 -->
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulasanthiya29&layout=compact&theme=merko)]
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokulasanthiya29&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulasanthiya29&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
 
