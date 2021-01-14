@@ -1,13 +1,7 @@
-![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<OS>-<Windows>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/<OS>-<Linux>-<yellow>)
-
 
 ### Hola, folks! 👋 It's me, Gokula Santhiya, a Cloud Technology Hanker, honing my skills on a daily basis to grab an aligning job to feed my curiosity. 
 These are the platforms I'm familiar with:
-![](https://img.shields.io/badge/RHEL-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
+![](https://img.shields.io/badge/<OS>-<Linux>-<yellow>)
 ![](https://img.shields.io/badge/Ubuntu-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
 ![](https://img.shields.io/badge/Windows-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
 
@@ -55,4 +49,19 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulasanthiya29&layout=compact&theme=merko)]
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokulasanthiya29&show_icons=true&theme=merko)
+
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/SanthiyaGokula
+[2]: https://www.linkedin.com/in/gokula-santhiya-017392184/
 
