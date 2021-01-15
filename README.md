@@ -1,18 +1,19 @@
 ### Hola, folks! 👋 It's me, Gokula Santhiya, a Cloud Technology Hanker, honing my skills on a daily basis to grab an aligning job to feed my curiosity. 
-These are the platforms I work on:
+### These are the platforms I work on:
+
 ![](https://img.shields.io/badge/<OS>-<Linux>-<yellow>)
 ![](https://img.shields.io/badge/<OS>-<Windows>-<yellow>)
 
-Programming Language:
+### Programming Language:
 ![](https://img.shields.io/badge/<Code>-<Python>-<pink>)
 
-Database:
-![](https://img.shields.io/badge/MySQL-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
-![](https://img.shields.io/badge/Oracle-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
+### Database:
+![](https://img.shields.io/badge/<DB>-<MySQL>-<yellow>)
+![](https://img.shields.io/badge/<DB>-<Oracle>-<red>)
 
-Cloud Computing:
-![](https://img.shields.io/badge/AWS-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
-![](https://img.shields.io/badge/GCP-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
+### Cloud Computing:
+![](https://img.shields.io/badge/<>-<AWS>-<yellow>)
+![](https://img.shields.io/badge/<>-<GCP>-<yellow>)
 
 DevOps & Automation:
 ![](https://img.shields.io/badge/Terraform-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
