@@ -8,18 +8,20 @@
 ![](https://img.shields.io/badge/<Code>-<Python>-<pink>)
 
 ### Database:
-![](https://img.shields.io/badge/<DB>-<MySQL>-<yellow>)
-![](https://img.shields.io/badge/<DB>-<Oracle>-<red>)
+![](https://img.shields.io/badge/MySQL-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
+![](https://img.shields.io/badge/Oracle-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
 
 ### Cloud Computing:
-![](https://img.shields.io/badge/<>-<AWS>-<yellow>)
-![](https://img.shields.io/badge/<>-<GCP>-<yellow>)
+![](https://img.shields.io/badge/AWS-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
+![](https://img.shields.io/badge/GCP-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
 
-DevOps & Automation:
+### DevOps & Automation:
 ![](https://img.shields.io/badge/Terraform-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
 ![](https://img.shields.io/badge/Ansible-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
 ![](https://img.shields.io/badge/Git-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
 ![](https://img.shields.io/badge/CircleCi-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
+
+### ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Web Technologies:
 ![](https://img.shields.io/badge/HTML-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
