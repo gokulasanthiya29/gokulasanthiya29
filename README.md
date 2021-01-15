@@ -34,12 +34,12 @@ Framework:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my Cloud Automation Project
+- 🔭 I’m currently working on my Cloud Automation Project:star_struck
 - 🌱 I’m currently learning ![](https://img.shields.io/badge/Docker-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
-- 👯 I’m looking to collaborate on Enterprise Cloud Projects
-- 🤔 I’m looking for help on finding a job
-- 💬 Ask me about Cloud Computing
-- 📫 How to reach me: <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[LinkedIn].svg" />
+- 👯 I’m looking to collaborate on Enterprise Cloud Projects:sunglasses:
+- 🤔 I’m looking for help on finding a job:monocle_face:
+- 💬 Ask me about Cloud Computing:nerd_face:
+- 📫 How to reach me: ![](<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[LinkedIn].svg" />)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to shout aloud, when being too much excited:zany_face:
 
