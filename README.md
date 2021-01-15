@@ -20,9 +20,10 @@
 ![](https://img.shields.io/badge/<WebTechnology>-<HTML>-<pink>)
 ![](https://img.shields.io/badge/<WebTechnology>-<CSS>-<pink>)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokulasanthiya29&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulasanthiya29&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gokulasanthiya29&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokulasanthiya29&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulasanthiya29&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **gokulasanthiya29/gokulasanthiya29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
