@@ -29,22 +29,20 @@ Web Technologies:
 Framework:
 ![](https://img.shields.io/badge/Flask-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
 
-<!--
+
 **gokulasanthiya29/gokulasanthiya29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my Cloud Automation Project
+- 🌱 I’m currently learning ![](https://img.shields.io/badge/Docker-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
+- 👯 I’m looking to collaborate on Enterprise Cloud Projects
+- 🤔 I’m looking for help on finding a job
+- 💬 Ask me about Cloud Computing
+- 📫 How to reach me: <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[LinkedIn].svg" />
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love to shout aloud, when being too much excited:zany_face:
 
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulasanthiya29&layout=compact&theme=merko)
 
