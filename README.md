@@ -1,4 +1,4 @@
-![](https://github.com/gokulasanthiya29/GitHubRepo/COOLGIRL.mp4)
+![](https://github.com/gokulasanthiya29/GitHubRepo/GOKULA%20SANTHIYA%20(1).pdf)
 ### Hola, folks! 👋 It's me, Gokula Santhiya, a Cloud Technology Hanker, honing my skills on a daily basis to grab an aligning job to feed my curiosity. 
 - 🔭 I’m currently working on my Cloud Automation Project:star_struck:
 - 🌱 I’m currently learning  ![](https://img.shields.io/badge/<DevOps>-<Docker>-<yellow>):whale2: & ![](https://img.shields.io/badge/<DevOps>-<Ansible>-<yellow>):yellow_heart:
