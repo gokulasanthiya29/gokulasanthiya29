@@ -21,7 +21,7 @@
 ### Cloud Computing:
 ![](https://img.shields.io/badge/AWS-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
 ![](https://img.shields.io/badge/GCP-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
-### ==================================
+### **********************************
 ### DevOps & Automation:
 ![](https://img.shields.io/badge/Terraform-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
 ![](https://img.shields.io/badge/Ansible-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
