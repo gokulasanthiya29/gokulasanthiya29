@@ -22,9 +22,10 @@
 ![](https://img.shields.io/badge/<WebTechnology>-<HTML>-<pink>)
 ![](https://img.shields.io/badge/<WebTechnology>-<CSS>-<pink>)
 
-### Have a look at my stats:
+### :rocket:Have a look at my stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokulasanthiya29&show_icons=true&theme=merko)
 
+### :woman_technologist:Oh ho, I'm more inclined towards HCL
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulasanthiya29&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
