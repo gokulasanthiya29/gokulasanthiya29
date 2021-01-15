@@ -1,5 +1,5 @@
 
-### :wave:Hola folks, I'm Gokula Santhiya.:sunglasses:
+### :sun_glasses:Hola folks, I'm Gokula Santhiya.:call_me_hand:
 ### I'm a Student, Cloud Automation & DevOps Practitioner!
 - 🔭 I’m currently working on my Cloud Automation Project:star_struck:
 - 🌱 I’m currently learning  ![](https://img.shields.io/badge/<DevOps>-<Docker>-<yellow>):whale2: & ![](https://img.shields.io/badge/<DevOps>-<Ansible>-<yellow>):yellow_heart:
@@ -9,7 +9,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to shout aloud, when being too much excited:zany_face:
 --------------------------------------
-### Tech & Tools, I work on:
+### :woman_technologist:Tech & Tools, I work on:
 ![](https://img.shields.io/badge/<OS>-<Linux>-<yellow>)
 ![](https://img.shields.io/badge/<OS>-<Windows>-<yellow>)
 ![](https://img.shields.io/badge/<Code>-<Python>-<pink>)
@@ -25,7 +25,7 @@
 ### :rocket:Have a look at my stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokulasanthiya29&show_icons=true&theme=merko)
 
-### :woman_technologist:Oh ho, I'm more inclined towards HCL
+### :dart:Oh ho, I'm more inclined towards HCL
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulasanthiya29&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
