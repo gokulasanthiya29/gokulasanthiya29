@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulasanthiya29&layout=compact&theme=merko)
 
