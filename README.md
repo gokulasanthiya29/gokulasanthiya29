@@ -7,7 +7,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to shout aloud, when being too much excited:zany_face:
 --------------------------------------
-### The Tech & Tools, I work on:
+### Tech & Tools, I work on:
 ![](https://img.shields.io/badge/<OS>-<Linux>-<yellow>)
 ![](https://img.shields.io/badge/<OS>-<Windows>-<yellow>)
 ![](https://img.shields.io/badge/<Code>-<Python>-<pink>)
