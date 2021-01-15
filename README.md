@@ -1,4 +1,4 @@
-![](https://github.com/gokulasanthiya29/GitHubRepo/blob/master/gs.jpg)
+![](https://github.com/gokulasanthiya29/GitHubRepo/blob/master/gs.png)
 ### :call_me_hand:Hola folks! It's me, Gokula Santhiya:sunglasses:
 ### I'm a Student, Cloud Automation & DevOps Practitioner!
 - 🔭 I’m currently working on my Cloud Automation Project:star_struck:
