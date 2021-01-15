@@ -1,4 +1,4 @@
-### :sunglasses:Hola folks! It's me, Gokula Santhiya.:call_me_hand:
+### :call_me_hand:Hola folks! It's me, Gokula Santhiya:sunglasses:
 ### I'm a Student, Cloud Automation & DevOps Practitioner!
 - 🔭 I’m currently working on my Cloud Automation Project:star_struck:
 - 🌱 I’m currently learning  ![](https://img.shields.io/badge/<DevOps>-<Docker>-<yellow>):whale2: & ![](https://img.shields.io/badge/<DevOps>-<Ansible>-<yellow>):yellow_heart:
