@@ -1,5 +1,6 @@
 
-### Hola, folks! 👋 It's me, Gokula Santhiya, a Cloud Technology Hanker, honing my skills on a daily basis to grab an aligning job to feed my curiosity. 
+### Hola folks, I'm Gokula Santhiya:call_me_hand:
+### I'm a Student, Cloud Automation & DevOps Practitioner!
 - 🔭 I’m currently working on my Cloud Automation Project:star_struck:
 - 🌱 I’m currently learning  ![](https://img.shields.io/badge/<DevOps>-<Docker>-<yellow>):whale2: & ![](https://img.shields.io/badge/<DevOps>-<Ansible>-<yellow>):yellow_heart:
 - 👯 I’m looking to collaborate on Enterprise Cloud Projects:sunglasses:
