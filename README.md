@@ -1,4 +1,4 @@
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ### Hola, folks! 👋 It's me, Gokula Santhiya, a Cloud Technology Hanker, honing my skills on a daily basis to grab an aligning job to feed my curiosity. 
 These are the platforms I'm familiar with:
 ![](https://img.shields.io/badge/<OS>-<Linux>-<yellow>)
