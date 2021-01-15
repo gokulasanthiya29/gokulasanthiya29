@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/{gokulasanthiya29}/{GitHubRepo}/raw/master/path/to/COOLGIRL.mp4)
+![Alt Text](https://github.com/gokulasanthiya29/GitHubRepo/raw/master/path/to/COOLGIRL.mp4)
 ### :call_me_hand:Hola folks! It's me, Gokula Santhiya:sunglasses:
 ### I'm a Student, Cloud Automation & DevOps Practitioner!
 - 🔭 I’m currently working on my Cloud Automation Project:star_struck:
