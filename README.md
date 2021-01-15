@@ -1,6 +1,6 @@
 ### Hola, folks! 👋 It's me, Gokula Santhiya, a Cloud Technology Hanker, honing my skills on a daily basis to grab an aligning job to feed my curiosity. 
 - 🔭 I’m currently working on my Cloud Automation Project:star_struck
-- 🌱 I’m currently learning ![](https://img.shields.io/badge/Docker-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)&![](https://img.shields.io/badge/Ansible-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
+- 🌱 I’m currently learning  ![](https://img.shields.io/badge/Docker-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>) & ![](https://img.shields.io/badge/Ansible-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
 - 👯 I’m looking to collaborate on Enterprise Cloud Projects:sunglasses:
 - 🤔 I’m looking for help to find a job:monocle_face:
 - 💬 Ask me about Cloud Computing:nerd_face:
@@ -26,8 +26,7 @@
 Here are some ideas to get you started:
 -->
 
-- 📫 How to reach me: <!-- Actual text -->
-You can find me on [![Twitter][1.2]][1]
+You can find me on [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
@@ -37,11 +36,7 @@ You can find me on [![Twitter][1.2]][1]
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/SanthiyaGokula
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulasanthiya29&layout=compact&theme=merko)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokulasanthiya29&show_icons=true&theme=merko)
+[2]: https://www.linkedin.com/in/gokula-santhiya-017392184
 
 
 
