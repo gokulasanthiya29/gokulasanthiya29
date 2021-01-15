@@ -37,9 +37,21 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my Cloud Automation Project:star_struck
 - 🌱 I’m currently learning ![](https://img.shields.io/badge/Docker-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
 - 👯 I’m looking to collaborate on Enterprise Cloud Projects:sunglasses:
-- 🤔 I’m looking for help on finding a job:monocle_face:
+- 🤔 I’m looking for help to find a job:monocle_face:
 - 💬 Ask me about Cloud Computing:nerd_face:
-- 📫 How to reach me: ![](<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[LinkedIn].svg" />)
+- 📫 How to reach me: <!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1]
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/SanthiyaGokula
+
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to shout aloud, when being too much excited:zany_face:
 
