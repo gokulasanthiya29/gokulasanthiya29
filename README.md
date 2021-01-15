@@ -1,5 +1,5 @@
 ### Hola, folks! 👋 It's me, Gokula Santhiya, a Cloud Technology Hanker, honing my skills on a daily basis to grab an aligning job to feed my curiosity. 
-- 🔭 I’m currently working on my Cloud Automation Project:star_struck
+- 🔭 I’m currently working on my Cloud Automation Project:star_struck:
 - 🌱 I’m currently learning  ![](https://img.shields.io/badge/Docker-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>) & ![](https://img.shields.io/badge/Ansible-<Python>informational?style=flat&logo=data:#3776AB;base64,<Python>)
 - 👯 I’m looking to collaborate on Enterprise Cloud Projects:sunglasses:
 - 🤔 I’m looking for help to find a job:monocle_face:
