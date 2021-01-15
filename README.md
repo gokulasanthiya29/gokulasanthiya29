@@ -1,5 +1,5 @@
 
-### Hola folks, I'm Gokula Santhiya:call_me_hand:
+### Hola folks, I'm Gokula Santhiya.:wave:
 ### I'm a Student, Cloud Automation & DevOps Practitioner!
 - 🔭 I’m currently working on my Cloud Automation Project:star_struck:
 - 🌱 I’m currently learning  ![](https://img.shields.io/badge/<DevOps>-<Docker>-<yellow>):whale2: & ![](https://img.shields.io/badge/<DevOps>-<Ansible>-<yellow>):yellow_heart:
