@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help to find a job:monocle_face:
 - 💬 Ask me about Cloud Computing:nerd_face:
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love to shout aloud, when being too much excited:zany_face:
+- ⚡ Fun fact: I love to shout aloud, when I'm thrilled:zany_face:
 --------------------------------------
 ### :woman_technologist:Tech & Tools, I work on:
 ![](https://img.shields.io/badge/<OS>-<Linux>-<yellow>)
