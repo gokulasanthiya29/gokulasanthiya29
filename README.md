@@ -33,10 +33,8 @@
     width="90"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/css3.svg" />
 </a>
-
-### Tools:
-**Tools**
-
+###
+### Tools, I use:
 <a href="code.visualstudio.com/">
   <img 
     alt="VS Code"
@@ -53,7 +51,7 @@
 </a>
 
 
-**Version Control**
+### Version Control:
 
 <a href="https://git-scm.com">
   <img
@@ -71,7 +69,7 @@
 </a>
 
 
-**Containerization & Container Orchestration**
+### Containerization & Container Orchestration:
 
 <a href="https://hub.docker.com/">
   <img 
@@ -89,18 +87,17 @@
 </a>
 
 
-**Database**
+### Database:
 
 <a href="https://mysql.com/">
   <img 
     alt="MySql"
     height="80"
     width="80"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/mysql-original.svg" />
+    src="https://raw.githubusercontent.com/sosedoff/pgweb/master/static/img/icon.png" />
 </a>
 
-
-**Frameworks**
+### Frameworks:
 
 <a href="https://reactjs.org/">
   <img
