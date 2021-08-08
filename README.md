@@ -21,34 +21,6 @@
     width="80"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/python.svg" />
 </a>
-<a href="https://www.java.com/en/">
-  <img
-    alt="Java"
-    height="80"
-    width="80"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/java.svg" />
-</a>
-<a href="https://www.cprogramming.com/">
-  <img
-    alt="C"
-    height="80"
-    width="80"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/c-original.svg?raw=true?sanitize=true" />
-</a>
-<a href="https://www.php.net">
-  <img
-    alt="PHP"
-    height="80"
-    width="80"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/php-original.svg" />
-</a>
-<a href="https://www.javascript.com/">
-  <img
-    alt="JavaScript"
-    height="80"
-    width="80"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/javascript.svg" />
-</a>
 <a href="https://w3.org/">
   <img
     alt="Dart"
@@ -59,8 +31,8 @@
 <a href="https://w3.org/">
   <img
     alt="CSS"
-    height="80"
-    width="80"
+    height="110"
+    width="110"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/css3.svg" />
 </a>
 
@@ -74,33 +46,12 @@
     width="80"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/visualstudio-plain.svg" />
 </a>
-<a href="atom.io">
-  <img 
-    alt="Atom"
-    height="80"
-    width="80"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/atom-original.svg" />
-</a>
 <a href="https://ubuntu.com">
   <img 
     alt="Ubuntu"
     height="80"
     width="80"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/ubuntu-plain.svg" />
-</a>
-<a href="https://slack.com">
-  <img 
-    alt="Slack"
-    height="80"
-    width="80"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/slack-original.svg" />
-</a>
-  <a href="https://trello.com">
-  <img 
-    alt="Trello"
-    height="80"
-    width="80"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/trello-plain.svg" />
 </a>
 
 
