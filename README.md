@@ -1,7 +1,7 @@
 ![](https://github.com/gokulasanthiya29/GitHubRepo/blob/master/gs.png)
 ### :call_me_hand:Hola folks! It's me, G O K U L A  S A N T H I Y A:sunglasses:
 
-<i>I'm an optimistic, self-made-dream-chaser:dart:, currently working on Cloud Computing with focus on DevOps for a startup who fell in love with programming:heart_eyes: very recently and as a matter of fact, CODING..CODDINGG..and...CODDINNGGGGGG....:smile:</i>
+<i><p style="font-family:monospace", "font-size:12px">I'm an optimistic, self-made-dream-chaser:dart:, currently working on Cloud Computing with focus on DevOps for a startup who fell in love with programming:heart_eyes: very recently and as a matter of fact, CODING..CODDINGG..and...CODDINNGGGGGG....:smile:</p></i>
 --------------------------------------
 ## :woman_technologist:<i>I code on...</i>:
 
