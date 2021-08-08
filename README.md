@@ -49,6 +49,13 @@
     width="80"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/ubuntu-plain.svg" />
 </a>
+<a href="https://redhat.com">
+  <img 
+    alt="Ubuntu"
+    height="80"
+    width="80"
+    src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" />
+</a>
 
 
 ### Version Control:
@@ -68,14 +75,13 @@
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/github-original.svg" />
 </a>
 
-
 ### Containerization & Container Orchestration:
 
 <a href="https://hub.docker.com/">
   <img 
     alt="Docker"
-    height="80"
-    width="80"
+    height="100"
+    width="100"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/docker-original.svg" />
 </a>
 <a href="https://kubernetes.io/">
@@ -95,6 +101,13 @@
     height="80"
     width="80"
     src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" />
+</a>
+<a href="https://redis.com/">
+  <img 
+    alt="MySql"
+    height="80"
+    width="80"
+    src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" />
 </a>
 
 ### Frameworks:
@@ -120,9 +133,9 @@
 <p align="center">
   <i>You can connect with me here!</i>
   <p align="center">
-    <a href="https://twitter.com/santhiyagokula" alt="Twitter"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
-    <a href="https://www.linkedin.com/in/gokulasanthiya29" alt="Linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-    <a href="https://github.com/gokulasanthiya29" alt="GitHub"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+    <a href="https://twitter.com/santhiyagokula" alt="Twitter"><img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"/></a>
+    <a href="https://www.linkedin.com/in/gokulasanthiya29" alt="Linkedin"><img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" /></a>
+    <a href="https://github.com/gokulasanthiya29" alt="GitHub"><img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" /></a>
     <a href="https://medium.com/@santhiyasandyrc" alt="Medium"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
   </p>
 </p>
