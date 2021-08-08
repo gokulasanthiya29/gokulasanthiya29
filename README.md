@@ -1,9 +1,9 @@
 ![](https://github.com/gokulasanthiya29/GitHubRepo/blob/master/gs.png)
-### :call_me_hand:Hola folks! It's me, G O K U L A  S A N T H I Y A:sunglasses:
+###### :call_me_hand:Hola folks! It's me, G O K U L A  S A N T H I Y A:sunglasses:
 
-__I'm an optimistic, self-made-dream-chaser:dart:, currently working on Cloud Computing with focus on DevOps for a startup who fell in love with programming very recently and as a matter of fact, CODING..CODDINGG..and...CODDINNGGGGGG....:smile:
+#__I'm an optimistic, self-made-dream-chaser:dart:, currently working on Cloud Computing with focus on DevOps for a startup who fell in love with programming very recently and as a matter of fact, CODING..CODDINGG..and...CODDINNGGGGGG....:smile:
 --------------------------------------
-### :woman_technologist:<i>I code on...</i>:
+## :woman_technologist:<i>I code on...</i>:
 
 
 <a href="https://www.python.org/">
@@ -28,7 +28,7 @@ __I'm an optimistic, self-made-dream-chaser:dart:, currently working on Cloud Co
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/html5-original.svg" />
 </a>
 
-### <i>My tool-box</i>:
+## <i>My tool-box</i>:
 <a href="code.visualstudio.com/">
   <img 
     alt="VS Code"
@@ -52,7 +52,7 @@ __I'm an optimistic, self-made-dream-chaser:dart:, currently working on Cloud Co
 </a>
 
 
-### <i>Version Control</i>:
+## <i>Version Control</i>:
 
 <a href="https://git-scm.com">
   <img
@@ -76,7 +76,7 @@ __I'm an optimistic, self-made-dream-chaser:dart:, currently working on Cloud Co
     src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />
 </a>
 
-### <i>Cloud Platform</i>:
+## <i>Cloud Platform</i>:
 
 <a href="https://cloud.google.com/">
   <img
@@ -86,7 +86,7 @@ __I'm an optimistic, self-made-dream-chaser:dart:, currently working on Cloud Co
     src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />
 </a>
 
-### <i>Containerization & Orchestration</i>:
+## <i>Containerization & Orchestration</i>:
 
 <a href="https://hub.docker.com/">
   <img 
@@ -104,7 +104,7 @@ __I'm an optimistic, self-made-dream-chaser:dart:, currently working on Cloud Co
 </a>
 
 
-### <i>Databases</i>:
+## <i>Databases</i>:
 
 <a href="https://postgresql.com/">
   <img 
@@ -121,7 +121,7 @@ __I'm an optimistic, self-made-dream-chaser:dart:, currently working on Cloud Co
     src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" />
 </a>
 
-### <i>Framework</i>:
+## <i>Framework</i>:
 
 <a href="https://flask.org/">
   <img
