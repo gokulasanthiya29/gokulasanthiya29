@@ -130,7 +130,7 @@
 
 <hr>
 <p align="center">
-  <i>You can connect with me here!</i>
+  <b>connect with me on</b>
   <p align="center">
     <a href="https://twitter.com/santhiyagokula" alt="Twitter"><img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"/></a>
     <a href="https://www.linkedin.com/in/gokulasanthiya29" alt="Linkedin"><img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" /></a>
