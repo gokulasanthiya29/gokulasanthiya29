@@ -1,7 +1,7 @@
 ![](https://github.com/gokulasanthiya29/GitHubRepo/blob/master/gs.png)
 ### :call_me_hand:<i>Hola folks! It's me, Gokula Santhiya</i>:sunglasses:
 --------------------------------------
-### :woman_technologist:I code on:
+### :woman_technologist:I CODE ON:
 
 
 <a href="https://www.python.org/">
