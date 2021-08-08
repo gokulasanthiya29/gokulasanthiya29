@@ -26,7 +26,7 @@
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/css3.svg" />
 </a>
 
-### MY TOOL-BOX:
+### <i>MY TOOL-BOX</i>:
 <a href="code.visualstudio.com/">
   <img 
     alt="VS Code"
@@ -50,7 +50,7 @@
 </a>
 
 
-### VERSION CONTROL:
+### <i>VERSION CONTROL</i>:
 
 <a href="https://git-scm.com">
   <img
@@ -74,7 +74,7 @@
     src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />
 </a>
 
-### CONTAINERIZATION & ORCHESTRATION:
+### <i>CONTAINERIZATION & ORCHESTRATION</i>:
 
 <a href="https://hub.docker.com/">
   <img 
@@ -92,7 +92,7 @@
 </a>
 
 
-### DATABASES:
+### <i>DATABASES</i>:
 
 <a href="https://postgresql.com/">
   <img 
@@ -109,7 +109,7 @@
     src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" />
 </a>
 
-### FRAMEWORK:
+### <i>FRAMEWORK</i>:
 
 <a href="https://flask.org/">
   <img
