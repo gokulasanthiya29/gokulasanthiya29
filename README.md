@@ -2,9 +2,7 @@
 
 
 ### :call_me_hand:Hola folks! It's me, G O K U L A  S A N T H I Y A:sunglasses:
-<p style="font-family": "monospace"><i><pre>
-      I'm an optimistic, self-made-dream-chaser:dart:, currently working on Cloud Computing with focus on DevOps for a startup who fell in love with programming:heart_eyes: very recently and as a matter of fact, CODING..CODDINGG..and...CODDINNGGGGGG....:smile:
-</pre></i></p>
+<p style="font-family": "monospace"><i><pre>      I'm an optimistic, self-made-dream-chaser:dart:, currently working on Cloud Computing with focus on DevOps for a startup who fell in love with programming:heart_eyes: very recently and as a matter of fact, CODING..CODDINGG..and...CODDINNGGGGGG....:smile:</pre></i></p>
 
 --------------------------------------
 ### :woman_technologist:<i>I code on...</i>:
