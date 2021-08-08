@@ -27,6 +27,15 @@
  
 **Languages and Tools:**
 
+<a href="https://www.python.org/">
+  <img
+    alt="Python"
+    height="80"
+    width="80"
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/python.svg" />
+</a>
+
+
 <p align="center">
 
   <div align="center">
