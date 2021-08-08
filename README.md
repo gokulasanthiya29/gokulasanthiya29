@@ -29,13 +29,12 @@
 <a href="https://w3.org/">
   <img
     alt="CSS"
-    height="120"
-    width="120"
+    height="105"
+    width="105"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/css3.svg" />
 </a>
 --------------------------------------
-**Version Control**
-
+##Version Control:
 <a href="https://git-scm.com">
   <img
     alt="Git"
@@ -51,8 +50,7 @@
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/github-original.svg" />
 </a>
 --------------------------------------
-**Tools**
-
+##Tools, I use:
 <a href="code.visualstudio.com/">
   <img 
     alt="VS Code"
@@ -68,8 +66,7 @@
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/ubuntu-plain.svg" />
 </a>
 --------------------------------------
-**Database**
-
+##Database:
 <a href="https://mysql.com/">
   <img 
     alt="MySql"
@@ -78,8 +75,7 @@
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/mysql-original.svg" />
 </a>
 --------------------------------------
-**Containerization & Container Orchestration**
-
+##Containerization & Container Orchestration:
 <a href="https://hub.docker.com/">
   <img 
     alt="Docker"
