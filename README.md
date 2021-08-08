@@ -1,5 +1,5 @@
 ![](https://github.com/gokulasanthiya29/GitHubRepo/blob/master/gs.png)
-### :call_me_hand:<i>Hola folks! It's me, GOKULA SANTHIYA</i>:sunglasses:
+### :call_me_hand:<i>Hola folks! It's me,</i> GOKULA SANTHIYA:sunglasses:
 --------------------------------------
 ### :woman_technologist:<i>I code on...</i>:
 
