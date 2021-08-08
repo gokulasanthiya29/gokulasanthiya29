@@ -35,6 +35,22 @@
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/python.svg" />
 </a>
 
+<a href="https://w3.org/">
+  <img
+    alt="Dart"
+    height="80"
+    width="80"
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/html5-original.svg" />
+</a>
+
+<a href="https://w3.org/">
+  <img
+    alt="CSS"
+    height="80"
+    width="80"
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/css3.svg" />
+</a>
+
 
 <p align="center">
 
