@@ -29,13 +29,13 @@
 <a href="https://w3.org/">
   <img
     alt="CSS"
-    height="100"
-    width="100"
+    height="90"
+    width="90"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/css3.svg" />
 </a>
 
 
-**Tools**
+****Tools****
 
 <a href="code.visualstudio.com/">
   <img 
@@ -107,7 +107,7 @@
     alt="React"
     height="80"
     width="80"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/flask-original.svg" />
+    src="https://raw.githubusercontent.com/flask-original.svg" />
 </a>
 
 <br>
