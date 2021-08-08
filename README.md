@@ -33,7 +33,7 @@
     width="90"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/css3.svg" />
 </a>
-###
+
 ### Tools, I use:
 <a href="code.visualstudio.com/">
   <img 
@@ -89,22 +89,22 @@
 
 ### Database:
 
-<a href="https://mysql.com/">
+<a href="https://postgresql.com/">
   <img 
     alt="MySql"
     height="80"
     width="80"
-    src="https://raw.githubusercontent.com/sosedoff/pgweb/master/static/img/icon.png" />
+    src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" />
 </a>
 
 ### Frameworks:
 
-<a href="https://reactjs.org/">
+<a href="https://flask.org/">
   <img
     alt="React"
     height="80"
     width="80"
-    src="https://raw.githubusercontent.com/flask-original.svg" />
+    src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
 </a>
 
 <br>
@@ -115,14 +115,15 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vatsa287&theme=dark">
 </p>
 
+
 <hr>
 <p align="center">
   <i>You can connect with me here!</i>
   <p align="center">
-    <a href="https://twitter.com/vasta287" alt="Twitter"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
-    <a href="https://www.linkedin.com/in/vatsa287" alt="Linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-    <a href="https://github.com/vatsa287" alt="GitHub"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-    <a href="https://medium.com/@shreevatsan" alt="Medium"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
+    <a href="https://twitter.com/santhiyagokula" alt="Twitter"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
+    <a href="https://www.linkedin.com/in/gokulasanthiya29" alt="Linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+    <a href="https://github.com/gokulasanthiya29" alt="GitHub"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+    <a href="https://medium.com/@santhiyasandyrc" alt="Medium"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
   </p>
 </p>
 
