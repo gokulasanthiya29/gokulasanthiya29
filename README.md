@@ -1,13 +1,6 @@
 ![](https://github.com/gokulasanthiya29/GitHubRepo/blob/master/gs.png)
 ### :call_me_hand:Hola folks! It's me, Gokula Santhiya:sunglasses:
 ### I'm a Student, Cloud Automation & DevOps Practitioner!
-- 🔭 I’m currently working on my Cloud Automation Project:star_struck:
-- 🌱 I’m currently learning  ![](https://img.shields.io/badge/<DevOps>-<Docker>-<yellow>):whale2: & ![](https://img.shields.io/badge/<DevOps>-<Ansible>-<yellow>):yellow_heart:
-- 👯 I’m looking to collaborate on Enterprise Cloud Projects:sunglasses:
-- 🤔 I’m looking for help to find a job:monocle_face:
-- 💬 Ask me about Cloud Computing:nerd_face:
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love to shout aloud, when I'm thrilled:zany_face:
 --------------------------------------
 ### :woman_technologist:I code on:
 
