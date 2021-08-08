@@ -9,24 +9,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to shout aloud, when I'm thrilled:zany_face:
 --------------------------------------
-### :woman_technologist:Tech & Tools, I work on:
-![](https://img.shields.io/badge/<OS>-<Linux>-<yellow>)
-![](https://img.shields.io/badge/<OS>-<Windows>-<yellow>)
-![](https://img.shields.io/badge/<Code>-<Python>-<pink>)
-![](https://img.shields.io/badge/<Framework>-<Flask>-<yellow>)
-![](https://img.shields.io/badge/<CloudComputing>-<AWS>-<yellow>)
-![](https://img.shields.io/badge/<CloudComputing>-<GCP>-<pink>)
-![](https://img.shields.io/badge/<DevOps>-<Terraform>-<pink>)
-![](https://img.shields.io/badge/<VCS>-<Git>-<pink>)
-![](https://img.shields.io/badge/<CI/CD>-<CircleCi>-<pink>)
-![](https://img.shields.io/badge/<WebTechnology>-<HTML>-<pink>)
-![](https://img.shields.io/badge/<WebTechnology>-<CSS>-<pink>)
-
-----
-
- 
-**Languages and Tools:**
-
+### :woman_technologist:I code on:
 <a href="https://www.python.org/">
   <img
     alt="Python"
@@ -46,8 +29,8 @@
 <a href="https://w3.org/">
   <img
     alt="CSS"
-    height="80"
-    width="80"
+    height="100"
+    width="100"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/css3.svg" />
 </a>
 
