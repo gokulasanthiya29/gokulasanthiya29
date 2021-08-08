@@ -34,7 +34,7 @@
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/css3.svg" />
 </a>
 --------------------------------------
-##Version Control:
+### :Version Control:
 <a href="https://git-scm.com">
   <img
     alt="Git"
