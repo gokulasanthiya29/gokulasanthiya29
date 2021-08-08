@@ -65,7 +65,7 @@
     alt="Github"
     height="80"
     width="80"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/gitlab-original.svg" />
+    src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />
 </a>
 <a href="https://git-scm.com">
   <img
