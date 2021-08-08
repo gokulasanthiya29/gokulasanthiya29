@@ -34,8 +34,8 @@
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/css3.svg" />
 </a>
 
-
-****Tools****
+### Tools:
+**Tools**
 
 <a href="code.visualstudio.com/">
   <img 
