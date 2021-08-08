@@ -133,8 +133,8 @@
 
 <hr>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=gokulasanthiya29&show_icons=true&theme=merko"><br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gokulasanthiya29&theme=merko">
+  <img src = "https://github-readme-stats.vercel.app/api?username=gokulasanthiya29&show_icons=true&theme=dracula"><br>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gokulasanthiya29&theme=synthwave">
 </p>
 
 
