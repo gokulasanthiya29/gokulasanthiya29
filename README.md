@@ -29,22 +29,72 @@
 <a href="https://w3.org/">
   <img
     alt="CSS"
-    height="100"
-    width="100"
+    height="120"
+    width="120"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/css3.svg" />
 </a>
+--------------------------------------
+**Version Control**
 
+<a href="https://git-scm.com">
+  <img
+    alt="Git"
+    height="80"
+    width="80"
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/git-original.svg" />
+</a>
+<a href="https://github.com">
+  <img
+    alt="Github"
+    height="80"
+    width="80"
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/github-original.svg" />
+</a>
+--------------------------------------
+**Tools**
 
-<p align="center">
+<a href="code.visualstudio.com/">
+  <img 
+    alt="VS Code"
+    height="80"
+    width="80"
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/visualstudio-plain.svg" />
+</a>
+<a href="https://ubuntu.com">
+  <img 
+    alt="Ubuntu"
+    height="80"
+    width="80"
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/ubuntu-plain.svg" />
+</a>
+--------------------------------------
+**Database**
 
-  <div align="center">
-  
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<a href="https://mysql.com/">
+  <img 
+    alt="MySql"
+    height="80"
+    width="80"
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/mysql-original.svg" />
+</a>
+--------------------------------------
+**Containerization & Container Orchestration**
 
-  </div>
-  </p>
-------
-
+<a href="https://hub.docker.com/">
+  <img 
+    alt="Docker"
+    height="80"
+    width="80"
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/docker-original.svg" />
+</a>
+<a href="https://kubernetes.io/">
+  <img 
+    alt="Kubernetes"
+    height="80"
+    width="80"
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/kubernetes-icon.svg" />
+</a>
+--------------------------------------
 ### :rocket:Have a look at my stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokulasanthiya29&show_icons=true&theme=merko)
 
