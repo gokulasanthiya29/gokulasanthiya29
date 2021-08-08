@@ -1,7 +1,7 @@
 ![](https://github.com/gokulasanthiya29/GitHubRepo/blob/master/gs.png)
 ### :call_me_hand:<i>Hola folks! It's me, Gokula Santhiya</i>:sunglasses:
 --------------------------------------
-### :woman_technologist:<i>I CODE ON</i>:
+### :woman_technologist:<i>I code on...</i>:
 
 
 <a href="https://www.python.org/">
@@ -26,7 +26,7 @@
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/css3.svg" />
 </a>
 
-### <i>MY TOOL-BOX</i>:
+### <i>My tool-box</i>:
 <a href="code.visualstudio.com/">
   <img 
     alt="VS Code"
@@ -50,7 +50,7 @@
 </a>
 
 
-### <i>VERSION CONTROL</i>:
+### <i>Version Control</i>:
 
 <a href="https://git-scm.com">
   <img
@@ -74,7 +74,16 @@
     src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />
 </a>
 
-### <i>CONTAINERIZATION & ORCHESTRATION</i>:
+### <i>Cloud Platform</i>:
+
+<a href="https://cloud.google.com/">
+  <img
+    alt="Github"
+    height="80"
+    width="80"
+    src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />
+</a>
+### <i>Containerization & Orchestration</i>:
 
 <a href="https://hub.docker.com/">
   <img 
@@ -92,7 +101,7 @@
 </a>
 
 
-### <i>DATABASES</i>:
+### <i>Databases</i>:
 
 <a href="https://postgresql.com/">
   <img 
@@ -109,7 +118,7 @@
     src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" />
 </a>
 
-### <i>FRAMEWORK</i>:
+### <i>Framework</i>:
 
 <a href="https://flask.org/">
   <img
