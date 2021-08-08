@@ -53,13 +53,6 @@
 
 ### Version Control:
 
-<a href="https://gitlab.com">
-  <img
-    alt="Github"
-    height="80"
-    width="80"
-    src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />
-</a>
 <a href="https://git-scm.com">
   <img
     alt="Git"
@@ -73,6 +66,13 @@
     height="80"
     width="80"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/github-original.svg" />
+</a>
+<a href="https://gitlab.com">
+  <img
+    alt="Github"
+    height="80"
+    width="80"
+    src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />
 </a>
 
 ### Containerization & Container Orchestration:
@@ -124,8 +124,8 @@
 
 <hr>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=vatsa287&show_icons=true&theme=dark&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vatsa287&theme=dark">
+  <img src = "https://github-readme-stats.vercel.app/api?username=gokulasanthiya29&show_icons=true&theme=merko&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gokulasanthiya29&theme=merko">
 </p>
 
 
@@ -156,17 +156,7 @@
 Here are some ideas to get you started:
 -->
 
-You can find me on [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
 
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/SanthiyaGokula
-[2]: https://www.linkedin.com/in/gokula-santhiya-017392184
 
 
 
