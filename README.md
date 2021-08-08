@@ -60,6 +60,13 @@
 
 ### Version Control:
 
+<a href="https://gitlab.com">
+  <img
+    alt="Github"
+    height="80"
+    width="80"
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/gitlab-original.svg" />
+</a>
 <a href="https://git-scm.com">
   <img
     alt="Git"
