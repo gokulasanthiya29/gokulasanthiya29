@@ -10,9 +10,7 @@
 - ⚡ Fun fact: I love to shout aloud, when I'm thrilled:zany_face:
 --------------------------------------
 ### :woman_technologist:I code on:
-### Skills/Interests
 
-**Languages**
 
 <a href="https://www.python.org/">
   <img
@@ -31,8 +29,8 @@
 <a href="https://w3.org/">
   <img
     alt="CSS"
-    height="110"
-    width="110"
+    height="100"
+    width="100"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/css3.svg" />
 </a>
 
@@ -109,7 +107,7 @@
     alt="React"
     height="80"
     width="80"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/react-original.svg" />
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/flask-original.svg" />
 </a>
 
 <br>
