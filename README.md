@@ -1,6 +1,5 @@
 ![](https://github.com/gokulasanthiya29/GitHubRepo/blob/master/gs.png)
 ### :call_me_hand:Hola folks! It's me, Gokula Santhiya:sunglasses:
-### I'm a Student, Cloud Automation & DevOps Practitioner!
 --------------------------------------
 ### :woman_technologist:I code on:
 
@@ -124,7 +123,7 @@
 
 <hr>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=gokulasanthiya29&show_icons=true&theme=merko&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api?username=gokulasanthiya29&show_icons=true&theme=merko">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gokulasanthiya29&theme=merko">
 </p>
 
