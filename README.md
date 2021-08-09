@@ -5,8 +5,7 @@
 <p style="font-family": "monospace"><i>  I'm an optimistic, self-made-dream-chaser:dart:, currently working on Cloud Computing with focus on DevOps for a startup. I fell in love with programming:heart_eyes: very recently and as a matter of fact,</i> CODING...CODING...CODING...:smile:</p>
 
 --------------------------------------
-<p align="center">
-<i>:woman_technologist:I code on...</i>:
+### :woman_technologist:<i>I code on...</i>:
 
 
 <a href="https://www.python.org/">
@@ -30,9 +29,7 @@
     width="80"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/html5-original.svg" />
 </a>
-</p>
 
-<p align="center">
 ## <i>My tool-box</i>:
 <a href="code.visualstudio.com/">
   <img 
@@ -62,7 +59,6 @@
     width="80"
     src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" />
 </a>
-</p>
 
 ## <i>Version Control</i>:
 
