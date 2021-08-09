@@ -93,6 +93,13 @@
     width="80"
     src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />
 </a>
+<a href="https://aws.amazon.com/">
+  <img
+    alt="Github"
+    height="80"
+    width="80"
+    src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+</a>
 
 ## <i>Containerization & Orchestration</i>:
 
