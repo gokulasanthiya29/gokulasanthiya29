@@ -52,7 +52,13 @@
     width="80"
     src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" />
 </a>
-
+<a href="https://trello.com">
+  <img 
+    alt="Ubuntu"
+    height="80"
+    width="80"
+    src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" />
+</a>
 
 ## <i>Version Control</i>:
 
@@ -131,6 +137,13 @@
     height="80"
     width="80"
     src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
+</a>
+<a href="https://django.org/">
+  <img
+    alt="React"
+    height="80"
+    width="80"
+    src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />
 </a>
 
 <br>
