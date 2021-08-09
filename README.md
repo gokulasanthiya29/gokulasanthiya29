@@ -6,7 +6,7 @@
 
 --------------------------------------
 <p align="center">
-### :woman_technologist:<i>I code on...</i>:
+<i>:woman_technologist:I code on...</i>:
 
 
 <a href="https://www.python.org/">
