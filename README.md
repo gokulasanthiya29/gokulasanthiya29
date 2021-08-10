@@ -66,6 +66,8 @@
     width="80"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/git-original.svg" />
 </a>
+
+--------------------------------------
 <a href="https://github.com">
   <img
     alt="Github"
