@@ -59,9 +59,6 @@
     width="80"
     src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" />
 </a>
-
-## <i>Version Control</i>:
-
 <a href="https://git-scm.com">
   <img
     alt="Git"
@@ -83,9 +80,6 @@
     width="80"
     src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />
 </a>
-
-## <i>Cloud Platform</i>:
-
 <a href="https://cloud.google.com/">
   <img
     alt="Github"
@@ -100,9 +94,6 @@
     width="80"
     src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 </a>
-
-## <i>Containerization & Orchestration</i>:
-
 <a href="https://hub.docker.com/">
   <img 
     alt="Docker"
@@ -110,14 +101,6 @@
     width="100"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/docker-original.svg" />
 </a>
-<a href="https://kubernetes.io/">
-  <img 
-    alt="Kubernetes"
-    height="80"
-    width="80"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/kubernetes-icon.svg" />
-</a>
-
 
 ## <i>Databases</i>:
 
