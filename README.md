@@ -8,19 +8,20 @@
 ### :woman_technologist:<i>I code on...</i>:
 
 
-<a href="https://www.python.org/">
-  <img
-    alt="Python"
-    height="80"
-    width="80"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/python.svg" />
-</a> 
+
 <a href="https://w3.org/">
   <img
     alt="CSS"
     height="90"
     width="90"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/css3.svg" />
+</a>
+<a href="https://golang.org/">
+  <img
+    alt="CSS"
+    height="90"
+    width="90"
+    src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />
 </a>
 <a href="https://w3.org/">
   <img
