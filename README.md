@@ -8,13 +8,12 @@
 ### :woman_technologist:<i>I code on...</i>:
 
 
-
-<a href="https://w3.org/">
+<a href="https://python.org/">
   <img
     alt="CSS"
     height="90"
     width="90"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/css3.svg" />
+    src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 </a>
 <a href="https://golang.org/">
   <img
@@ -22,6 +21,13 @@
     height="90"
     width="90"
     src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />
+</a>
+<a href="https://w3.org/">
+  <img
+    alt="CSS"
+    height="90"
+    width="90"
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/css3.svg" />
 </a>
 <a href="https://w3.org/">
   <img
