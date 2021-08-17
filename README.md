@@ -111,7 +111,7 @@
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/docker-original.svg" />
 </a>
 
-## <i>Databases</i>:
+## :bricks:<i>Databases</i>:
 
 <a href="https://postgresql.com/">
   <img 
@@ -128,7 +128,7 @@
     src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" />
 </a>
 
-## <i>Framework</i>:
+## :art:<i>Framework</i>:
 
 <a href="https://flask.org/">
   <img
