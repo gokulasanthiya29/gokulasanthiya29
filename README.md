@@ -43,7 +43,7 @@
     alt="VS Code"
     height="80"
     width="80"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/visualstudio-plain.svg" />
+    src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
 </a>
 <a href="https://ubuntu.com">
   <img 
