@@ -37,7 +37,7 @@
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/html5-original.svg" />
 </a>
 
-## :toolbox:<i>My tool-box</i>:
+## :toolbox:<i>My dev-kit</i>:
 <a href="code.visualstudio.com/">
   <img 
     alt="VS Code"
