@@ -15,6 +15,13 @@
     width="90"
     src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 </a>
+<a href="https://www.java.com/">
+  <img
+    alt="CSS"
+    height="90"
+    width="90"
+    src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
+</a>
 <a href="https://golang.org/">
   <img
     alt="CSS"
